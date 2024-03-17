@@ -18,7 +18,7 @@ const Home = ({isLoggedIn}) => {
         <div className="relative ml-72">   
             <img src={bg} className='w-[900px]' />
             <div className='absolute  '>
-              <h1 className='text-black font-serif font-bold text-[40px] left-[100px] top-[-550px] relative'>Unlock the Power of Ayurvedic Wisdom</h1>
+              <h1 className='text-black font-serif font-bold text-[40px] left-[100px] top-[-550px] relative'>Unlock the Power of Telemedicine Wisdom</h1>
               <br></br>
               <h1 className='text-black text-center font-bold text-[25px] left-[100px] top-[-550px] relative'>Your Personalized Ayurvedic Healthcare Companion</h1>
               <Link to="https://ayurtech.streamlit.app/">

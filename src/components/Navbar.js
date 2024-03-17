@@ -12,7 +12,7 @@ const Navbar = (props) => {
     <div className='flex justify-between items-center w-11/12 max-w-[1160px] py-4 mx-auto'>
 
         <Link to="/"> 
-            <h4 className='text-black font-bold text-[35px]'>SEHAT</h4>
+            <h4 className='text-black font-bold text-[35px]'>Sehat Sathi</h4>
             {/* <img src={logo} alt="Logo" width={160} height={32} loading="lazy"/> */}
         </Link>
 
